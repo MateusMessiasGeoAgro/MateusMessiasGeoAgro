@@ -18,21 +18,25 @@ Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Al
 ## 🧠 Tecnologias & Ferramentas
 
 **🧭 SIG & Geotecnologias**  
+
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E6001F?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AgroCAD](https://img.shields.io/badge/AgroCAD-228B22?style=for-the-badge&logoColor=white)
 
 **💻 Desenvolvimento**  
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**🛠️ Ferramentas**  
+**🤖 Ferramentas de IA & Produtividade** 
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Partner-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-Ideation%20%26%20Code-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
