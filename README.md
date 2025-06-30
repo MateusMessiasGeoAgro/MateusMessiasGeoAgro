@@ -6,8 +6,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Mateus Messias**, Engenheiro Agrônomo apaixonado por geotecnologia e desenvolvimento de ferramentas GIS para a área agrícola.  
-Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Alegre**, com foco em projetos de Sitematização Agrícola, visualização de dados espaciais e aplicando automações para otimizar processos.
+Sou **Mateus Messias**, Engenheiro Agrônomo apaixonado por geotecnologia e desenvolvimento de ferramentas GIS para a área agrícola.
+Atualmente atuo como **Analista de Geotecnologia** na Adecoagro – Usina Monte Alegre, com foco em projetos de Sitematização Agrícola, visualização de dados geoespaciais e automação de processos. Aproveito ferramentas de IA generativa, como o ChatGPT e modelos da Google, para acelerar o desenvolvimento, prototipar soluções e aprofundar meu aprendizado em novas tecnologias.
 
 - 🛰️ Conhecimentos em AutoCAD, AgroCAD, QGIS, Leaflet, Git, APIs e dados geográficos.
 - 💻 Aplicando tecnologias web modernas (HTML, CSS, JS) e Python para criar soluções GIS
