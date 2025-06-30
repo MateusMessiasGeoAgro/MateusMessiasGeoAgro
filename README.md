@@ -1,42 +1,45 @@
 <!-- Cabeçalho com SVG animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+Mateus+Messias!;🌱+Geotecnologia%2C+WebGIS+e+Desenvolvimento+Spatial;🚀+Transformando+dados+em+decisões+inteligentes!" alt="Typing SVG" />
-</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Olá%2C+me+chamo+Mateus+Messias!;Desenvolvo+Projetos+de+Sistematização+Agrícola!;Apaixonado+por+Geotecnologias+e+Mapas+Interativos!;Front-end+com+HTML%2C+CSS%2C+JS!;Python+para+automações+e+processamento+geoespacial!;TransformandoDados+Geoespaciais+em+Soluções+para+o+Campo!)
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Mateus Messias**, apaixonado por geotecnologia e desenvolvimento de ferramentas GIS para a área agrícola.  
-Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Alegre**, com foco em WebGIS, automações em Python e visualização de dados espaciais.
+Sou **Mateus Messias**, Engenheiro Agrônomo apaixonado por geotecnologia e desenvolvimento de ferramentas GIS para a área agrícola.  
+Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Alegre**, com foco em projetos de Sitematização Agrícola, visualização de dados espaciais e aplicando automações para otimizar processos.
 
-- 🛰️ Especialista em QGIS, Leaflet, Git, APIs e dados geográficos
-- 🛠️ Criador do **Projeto WebGIS UMA**
-- 💻 Explorando tecnologias modernas como React + Flask
+- 🛰️ Conhecimentos em AutoCAD, AgroCAD, QGIS, Leaflet, Git, APIs e dados geográficos.
+- 💻 Aplicando tecnologias web modernas (HTML, CSS, JS) e Python para criar soluções GIS
 - 📫 Contato: **mateusmessias.engagro@gmail.com**
 
 ---
 
 ## 🧠 Tecnologias & Ferramentas
 
+**🧭 SIG & Geotecnologias**  
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E6001F?style=for-the-badge&logo=autodesk&logoColor=white)
+![AgroCAD](https://img.shields.io/badge/AgroCAD-228B22?style=for-the-badge&logoColor=white)
+
+**💻 Desenvolvimento**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+**🛠️ Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
 ## 🚧 Projetos em Destaque
 
-[![PROJETO WEBGIS](https://img.shields.io/badge/🌍_PROJETO_WEBGIS_UMA-Abrir%20Projeto-36BCF7?style=for-the-badge)](https://github.com/MateusMessiasGeoAgro/PROJETO-WEBGIS)
-> WebGIS interativo da Adecoagro com visualização de talhões, setores, filtros e integração com Google Sheets.
-
 [![Anime Divino](https://img.shields.io/badge/🎨_Anime_Divino-Explorar-FF69B4?style=for-the-badge)](https://github.com/MateusMessiasGeoAgro/Anime-Divino)
-> Página temática com lista animada de animes e layout customizado com foco em design.
+> Página temática com lista animada de animes e layout customizado com foco em CRUD.
 
 ---
 
@@ -44,20 +47,20 @@ Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Al
 
 | Ano      | Cargo / Atividade                             | Local/Empresa                          |
 |----------|-----------------------------------------------|----------------------------------------|
-| 2024-Atual | Analista de Geotecnologia                    | Adecoagro – Usina Monte Alegre         |
-| 2023      | Criação do sistema WebGIS institucional       | Adecoagro                              |
-| 2022      | Desenvolvimento de rotinas com Python + QGIS  | Projetos internos                      |
-| 2021      | Formação em Engenharia Agronômica             | [Nome da Universidade]                |
+| 2024 - Atual | Analista de Geotecnologia                    | Adecoagro – Usina Monte Alegre         |
+| 2016 -2019      | Formação em Engenharia Agronômica             | IFSULDEMINAS - Campus Muzambinho                |
+| 2013 - 2014      | Formação em Técnico em Agropecuária             | IFSULDEMINAS - Campus Muzambinho             |
 
 ---
 
 ## 📜 Certificações & Cursos Relevantes
 
-- 🌐 WebGIS Moderno com React e Leaflet – Em andamento (Alura)
-- 🐍 Python para Geoprocessamento com QGIS
-- 🧩 Git e GitHub na prática
-- 🗃️ Banco de Dados Espaciais com PostGIS
-- ✏️ Desenvolvimento Web com HTML, CSS, JS
+| Curso                                                       | Progresso       | Plataforma |
+|-------------------------------------------------------------|-----------------|------------|
+| ✏️ A partir do zero: Iniciante em Programação               | 🔵 3/5 módulos   | [Alura](https://www.alura.com.br) |
+| 💡 HTML e CSS para projetos web                             | ✅ Concluído     | [Alura](https://www.alura.com.br) |
+| 🧠 Front-end com HTML, CSS e JS                             | 🟡 6/8 módulos   | [Alura](https://www.alura.com.br) |
+
 
 ---
 
@@ -79,4 +82,8 @@ Atualmente atuo como **Analista de Geotecnologia na Adecoagro – Usina Monte Al
 
 <p align="center">
   <i>“Tecnologia só faz sentido se facilitar decisões e transformar realidades.”</i>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Power-blue?style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MateusMessiasGeoAgro&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
 </p>
