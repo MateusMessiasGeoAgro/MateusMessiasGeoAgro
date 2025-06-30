@@ -62,9 +62,8 @@ Atualmente atuo como **Analista de Geotecnologia** na Adecoagro – Usina Monte 
 | Curso                                                       | Progresso       | Plataforma |
 |-------------------------------------------------------------|-----------------|------------|
 | ✏️ A partir do zero: Iniciante em Programação               | 🔵 3/5 módulos   | [Alura](https://www.alura.com.br) |
-| 💡 HTML e CSS para projetos web                             | ✅ Concluído     | [Alura](https://www.alura.com.br) |
+| 💡 HTML e CSS para projetos web                             | [![Ver Certificado](https://img.shields.io/badge/Certificado-0A66C2?style=for-the-badge)](https://cursos.alura.com.br/user/mateus-messias92/degree-html-css-674466/certificate)     | [Alura](https://www.alura.com.br) |
 | 🧠 Front-end com HTML, CSS e JS                             | 🟡 6/8 módulos   | [Alura](https://www.alura.com.br) |
-
 
 ---
 
