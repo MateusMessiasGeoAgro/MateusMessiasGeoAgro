@@ -1,6 +1,6 @@
 <!-- Cabeçalho com SVG animado -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Olá%2C+me+chamo+Mateus+Messias!;Desenvolvo+Projetos+de+Sistematização+Agrícola!;Apaixonado+por+Geotecnologias+e+Mapas+Interativos!;Front-end+com+HTML%2C+CSS%2C+JS!;Python+para+automações+e+processamento+geoespacial!;TransformandoDados+Geoespaciais+em+Soluções+para+o+Campo!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Olá%2C+me+chamo+Mateus+Messias!;Desenvolvo+Projetos+de+Sistematização+Agrícola!;Apaixonado+por+Geotecnologias+e+Mapas+Interativos!;Estudando+Front-end+com+HTML%2C+CSS%2C+JS!;Python+para+automações+e+processamento+geoespacial!;TransformandoDados+Geoespaciais+em+Soluções+para+o+Campo!)
 
 ---
 
